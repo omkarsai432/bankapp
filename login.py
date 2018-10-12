@@ -10,6 +10,7 @@ class login:
         else:
             try:
                 login.con=mysql.connector.connect(user='root',password='omkarsai432',host='127.0.0.1',database='omkar')
+		print("connected to Database")
                 cur=login.con.cursor()
                 cur.execute("select ACCNO, PASSWORD from bankdb where ACCNO='"+accno+"'")
                 address = cur.fetchone()
