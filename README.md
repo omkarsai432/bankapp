@@ -1,5 +1,5 @@
 # bankapp
-This is python based banking app.
+This is python GUI based banking app.
 In this applications signup.py is the first window of application.
 Next login.py is second window of the application.
 After succesful login into the application contain a homepage window. The program for homepage is home.py.
