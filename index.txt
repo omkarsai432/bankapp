@@ -1,3 +1,6 @@
 something will done
+<<<<<<< HEAD
 next
 emo 
+=======
+>>>>>>> parent of f0cc901... no
