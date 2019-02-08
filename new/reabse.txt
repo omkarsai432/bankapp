@@ -1,3 +1,0 @@
-first rebase 1
-second rebase 2
-third rebase 3

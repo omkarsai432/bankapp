@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 something will done
 <<<<<<< HEAD
 next
 emo 
 =======
 >>>>>>> parent of f0cc901... no
+=======
+My first testing
+
+>>>>>>> parent of 6e74f1b... updated
