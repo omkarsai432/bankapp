@@ -1,7 +1,0 @@
-checking 1
-checking 2
-<<<<<<< HEAD
-checking 3
-
-=======
->>>>>>> 3e725ad531e4ca976da11665c7abfe29527e1132
